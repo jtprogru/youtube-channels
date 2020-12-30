@@ -50,4 +50,6 @@
 46. [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) – все о программировании и около;
 47. [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом;
 48. [Почему не работает?](https://www.youtube.com/channel/UCO8aN1B8ncJM09rohGvOiCQ) – программирование на Python, Vue.js;
+49. [Natasha Samoylenko](https://youtube.com/c/PyNEng) –  Python для сетевых инженеров;
+
 
