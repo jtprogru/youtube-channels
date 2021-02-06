@@ -11,6 +11,7 @@
 - [Dmitry Lambert](https://www.youtube.com/channel/UCUQSCqrwiCjwQZQGznTkvrQ) – туториалы по Zabbix, Linux, etc;
 - [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом;
 - [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около;
+- [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 
 ## Coding
 - [Диджитализируй!](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g) – Python, Linux, разработка, soft skills;
