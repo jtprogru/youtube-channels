@@ -46,7 +46,9 @@
 
 ## Learning
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
-- [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций;
+- [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
+- [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся гворить на Английском;
+- [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
 
 ## Conference / Interview
 - [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
