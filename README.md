@@ -34,21 +34,34 @@
 - [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ) – программирование для трейдеров;
 - [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg) – канал про web-программирование;
 - [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) – все о программировании и около;
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - короткие и не очень курсы CS/DS и смежным тематикам;
+- [PHP-Channel](https://www.youtube.com/c/PHPChannel) - канал про PHP, митапы, конфы, стримы (ru/en);
+- [PHP Point](https://www.youtube.com/channel/UCgqg8zPxOopwK-FoNeThByA) - канал о PHP от создателя PHP-Digest;
+- [SeregaZhuk](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - канал Сергея Жука, php-разработчика из SkyEng;
+- [The Codeholic](https://www.youtube.com/c/TheCodeholic/featured) - разные уроки по разработке;
+- [Володя Моженков НеУниверситет](https://www.youtube.com/channel/UCMH211UPVhGz5WR9sNCatcg) - просто и доступно об азах разработки;
+- [Пятиминутка PHP](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww) - влог подкаста Пятиминутка PHP;
 
 ## Companies / Official
 - [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
 - [Badoo Tech](https://www.youtube.com/c/BadooTech/featured) – официальный канал Badoo.Tech;
 - [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) – официальный канал портала [htmlacademy.ru](https://htmlacademy.ru);
 - [Слёрм](https://www.youtube.com/channel/UCK5MedKoNJ5aRahfGOIGx6g) – официальный канал УЦ [Slurm.io](https://slurm.io);
-- [Флант](https://www.youtube.com/channel/UCjmwHCZ-qh3ro7hHTQhqYQg) – официальный канал комании Флант;
+- [Флант](https://www.youtube.com/channel/UCjmwHCZ-qh3ro7hHTQhqYQg) – официальный канал компании Флант;
 - [ITSumma](https://www.youtube.com/c/ItsummaRu) – официальный канал компании [ITSumma](https://www.itsumma.ru);
 - [Zabbix](https://www.youtube.com/channel/UC5M8zH6ZfS5Znd3tJTjn_DA) – официальный канал компании [Zabbix](https://zabbix.com);
+- [Avito.tech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) - официальный канал Avito.tech;
+- [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - Официальный канал компании [PostgresPro](https://postgrespro.ru);
+- [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
+- [ITSumma](https://www.youtube.com/c/ItsummaRu/videos) - официальный канал компании ITSumma;git
+
 
 ## Learning
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
-- [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся гворить на Английском;
+- [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
 - [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
+- [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов; 
 
 ## Conference / Interview
 - [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
@@ -59,6 +72,8 @@
 - [RITFest Channel](https://www.youtube.com/channel/UC7hjrpB81FSipI1oqtOaZqQ) – Видеотрансляция главного зала фестиваля "Российских интернет технологий" (РИТ++);
 - [В офисе](https://www.youtube.com/channel/UCJ8AJ0qd2-gk90OujUETzCg) – интервью со специалистами разных направлений;
 - [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) – интервью со специалистами разных направлений;
+- [PG Day Russia](https://www.youtube.com/channel/UCF8bdHoyuXCiNzKAzF5Q2XA) - конференция PG Day;
+- [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
 
 ## Just for fun
 - [RomNero](https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig/) – домашнее сисадминство, просто о сложном;
@@ -66,7 +81,12 @@
 - [Anton Chernousov](https://www.youtube.com/c/AntonChernousov) – всякое разное об IT и около;
 - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) – обзоры дистрибутивов Linux, ПО, новостей, а так же туториалы;
 - [:3ildcat](https://www.youtube.com/channel/UCeHOkFGW-7uAZFvq3BXb8YA) – обзоры механических клавиатур;
-- [MONHOUSE](https://www.youtube.com/c/Monhouse) – канал про мониториг и около;
+- [MONHOUSE](https://www.youtube.com/c/Monhouse) – канал про мониторинг и около;
 - [Johe News](https://www.youtube.com/channel/UCL4BwOrBEKggPyqsdVpraFg) – всякое разное про Linux, IT, OpenSource;
 - [Константин Андрианов](https://www.youtube.com/channel/UCh3Z6GUdEtv3bHF9ZR_deag) – обзорчики новостей, железа, софта для яблочников;
 - [Linux Scoop](https://www.youtube.com/channel/UCNnUnr4gwyNmzx_Bbzvt29g) – обзоры дистрибутивов, кастомизации, настройки внешнего вида;
+- [Bits and Bytes TVO](https://www.youtube.com/c/bitsandbytestvo/videos) - канал про историю комп.техники, к сожалению заброшен;
+- [Давайте разбираться](https://www.youtube.com/channel/UCQU4CouaES6l-t9Llqzzt1A) - Наука и космос, ведёт твитерский [@kuingul](https://twitter.com/kuingul);
+- [Програмысли](https://www.youtube.com/channel/UCB-_Qz4Ptt8OwIsBkN9ahJA) - Мысли программиста, эксавтора для журналов Хакер и Игромания, живет в Канаде;
+- [Заметки ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA) - Про ардуино и не только;
+- [Дмитрий Бачило](https://www.youtube.com/c/BachiloDmitry/videos) - Ретро железо, софт, игры, да и не только ретро;
