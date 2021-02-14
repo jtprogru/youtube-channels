@@ -53,7 +53,6 @@
 - [Avito.tech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) - официальный канал Avito.tech;
 - [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - Официальный канал компании [PostgresPro](https://postgrespro.ru);
 - [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
-- [ITSumma](https://www.youtube.com/c/ItsummaRu/videos) - официальный канал компании ITSumma;git
 
 
 ## Learning
