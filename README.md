@@ -3,7 +3,9 @@
 Список Youtube каналов, которые так или иначе относятся к IT.
 
 ## Sysadmin / DevOps
+- [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
 - [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) – канал о DevOps;
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform;
 - [Dmitry Ketov](https://www.youtube.com/channel/UCvRRgjjKvyLNB9yx3oGu2Xw) – основной упор канала на системное администрирование;
 - [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw) – канал о DevOps, администрировании Linux;
 - [Системное администрирование, безопасность, сети – Академия Яндекса](https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg) – в названии канала указано всё, про что он вещает;
@@ -14,7 +16,10 @@
 - [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 
 ## Coding
+- [Django School](https://www.youtube.com/channel/UC_hPYclmFCIENpMUHpPY8FQ) – разработка на Django;
+- [FastAPI Channel](https://www.youtube.com/channel/UCFCaz7mA2qNodfTh0x1ET5Q) – разработка на FastAPI;
 - [Диджитализируй!](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g) – Python, Linux, разработка, soft skills;
+- [selfedu](https://www.youtube.com/channel/UClJzWfGWuGJL2t-3dYKcHTA) – видеоуроки по математике, алгоритмам обработки данных, нейронным сетям, языкам программирования;
 - [Видеоуроки Python](https://www.youtube.com/channel/UCWwN2VNpxDPJ-t17md1w6mg) – разнообразное про Python;
 - [Senior Pomidor Developer](https://www.youtube.com/channel/UCnjXFjG9HcinaU-oY28rLiw) – разнообразное про Python;
 - [DKA-DEVELOP](https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw) – разное по теме разработки в целом;
@@ -41,6 +46,8 @@
 - [The Codeholic](https://www.youtube.com/c/TheCodeholic/featured) - разные уроки по разработке;
 - [Володя Моженков НеУниверситет](https://www.youtube.com/channel/UCMH211UPVhGz5WR9sNCatcg) - просто и доступно об азах разработки;
 - [Пятиминутка PHP](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww) - влог подкаста Пятиминутка PHP;
+- [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg) – видеоуроки по веб-дизайну и созданию сайтов;
+- [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ) – программирование для трейдеров;
 
 ## Companies / Official
 - [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
@@ -60,9 +67,12 @@
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
 - [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
 - [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
-- [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов; 
+- [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов;
+- [Джастин](https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ) – уроки разговорного английского от носителя, учившего русский язык;
 
 ## Conference / Interview
+- [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
+- [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) – конфа про DevOps от JUG.ru Group;
 - [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
 - [Василий Айтипиплов](https://www.youtube.com/user/videoitpeople) – записи докладов про ИТ и около;
 - [Python Channel](https://www.youtube.com/c/PythonChannelRussia) – Python Channel;
@@ -75,6 +85,7 @@
 - [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
 
 ## Just for fun
+- [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
 - [RomNero](https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig/) – домашнее сисадминство, просто о сложном;
 - [Артём объяснит](https://www.youtube.com/channel/UCV6HQLYaoZfPpV5XGbOvAJA) – даже до тебя дойдёт всё;
 - [Anton Chernousov](https://www.youtube.com/c/AntonChernousov) – всякое разное об IT и около;
