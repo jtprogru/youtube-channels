@@ -15,6 +15,7 @@
 - [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около;
 - [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 - [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
+- [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
@@ -62,7 +63,6 @@
 - [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - Официальный канал компании [PostgresPro](https://postgrespro.ru);
 - [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
 
-
 ## Learning
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
 - [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
@@ -83,6 +83,8 @@
 - [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) – интервью со специалистами разных направлений;
 - [PG Day Russia](https://www.youtube.com/channel/UCF8bdHoyuXCiNzKAzF5Q2XA) - конференция PG Day;
 - [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
+- [Pro Conf](https://www.youtube.com/c/ProConf) – канал подкаста ProConf;
+- [linkmeup](https://www.youtube.com/c/linkmeup-podcast) – канал подкаста linkmeup;
 
 ## Just for fun
 - [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
