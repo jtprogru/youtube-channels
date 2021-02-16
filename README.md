@@ -14,6 +14,7 @@
 - [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом;
 - [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около;
 - [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
+- [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
