@@ -86,6 +86,7 @@
 - [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
 - [Pro Conf](https://www.youtube.com/c/ProConf) – канал подкаста ProConf;
 - [linkmeup](https://www.youtube.com/c/linkmeup-podcast) – канал подкаста linkmeup;
+- [Перейти в АйТи](https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ) – просто о сложном и как попасть в айтишечку;
 
 ## Just for fun
 - [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
