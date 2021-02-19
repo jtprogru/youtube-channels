@@ -50,6 +50,7 @@
 - [Володя Моженков НеУниверситет](https://www.youtube.com/channel/UCMH211UPVhGz5WR9sNCatcg) - просто и доступно об азах разработки;
 - [Пятиминутка PHP](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww) - влог подкаста Пятиминутка PHP;
 - [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg) – видеоуроки по веб-дизайну и созданию сайтов;
+- [Egor Malkevich](https://youtube.com/c/EgorMalkevich) – всякое разное про фронтенд;
 
 ## Companies / Official
 - [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
