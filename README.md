@@ -16,6 +16,7 @@
 - [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 - [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
 - [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
+- [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) – канал про GNU/Linux и IT;
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
