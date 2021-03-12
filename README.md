@@ -16,6 +16,8 @@
 - [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 - [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
 - [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
+- [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – все о DevOps и SRE практиках, разбор реальных ситуаций, архитектура инфраструктуры, безопасность;
+- [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux;
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
@@ -52,6 +54,9 @@
 - [WebDesign Master](https://www.youtube.com/channel/UC7enHM_oJRYJOnyJrcRzwbg) – видеоуроки по веб-дизайну и созданию сайтов;
 - [Egor Malkevich](https://youtube.com/c/EgorMalkevich) – всякое разное про фронтенд;
 - [Хитрый питон](https://www.youtube.com/channel/UC2-j4-hV33hboyK1FtukJ9w) – разработка на Python для начинающих;
+- [ITVDN](https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w) – видеокурсы по программированию;
+- [PyCoding](https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw) – программирование на Python и веб-фреймворке Django;
+- [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) – пепелсбей сам по себе, Google Developer Expert, руководитель «Веб-стандартов», организатор pitercss_meetup;
 
 ## Companies / Official
 - [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
@@ -88,6 +93,7 @@
 - [Pro Conf](https://www.youtube.com/c/ProConf) – канал подкаста ProConf;
 - [linkmeup](https://www.youtube.com/c/linkmeup-podcast) – канал подкаста linkmeup;
 - [Перейти в АйТи](https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ) – просто о сложном и как попасть в айтишечку;
+- [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g) – канал о жизни людей в айти и интересных фактах;
 
 ## Just for fun
 - [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
