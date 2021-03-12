@@ -18,6 +18,7 @@
 - [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
 - [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – все о DevOps и SRE практиках, разбор реальных ситуаций, архитектура инфраструктуры, безопасность;
 - [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux;
+- [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) – канал про GNU/Linux и IT;
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
