@@ -20,6 +20,11 @@
 - [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux;
 - [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) – канал про GNU/Linux и IT;
 - [Rotoro cloud](https://www.youtube.com/channel/UCAKBEk-i-irZSLWnhUfguwg) – канал про DevOps и около;
+- [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
+- [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) - подкаст - разговоры о современном DevOps, IT и около IT тематиках;
+- [DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A) - youtube-канал Московского сообщества DevOps;
+- [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) - видео конференций по DevOps от JUG.ru Group;
+- [DevOpsMinsk](https://www.youtube.com/channel/UC3UB8hAvJ9QPLgP7ql9dE6w) - видеоотчеты живых митапов по DevOps экспертизе от Минского сообщества;
 
 ## Coding
 - [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
@@ -59,6 +64,7 @@
 - [ITVDN](https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w) – видеокурсы по программированию;
 - [PyCoding](https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw) – программирование на Python и веб-фреймворке Django;
 - [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) – пепелсбей сам по себе, Google Developer Expert, руководитель «Веб-стандартов», организатор pitercss_meetup;
+- [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) -  канал от энтузиаста Python и Django и основателя Django Girls;
 
 ## Companies / Official
 - [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
@@ -69,8 +75,10 @@
 - [ITSumma](https://www.youtube.com/c/ItsummaRu) – официальный канал компании [ITSumma](https://www.itsumma.ru);
 - [Zabbix](https://www.youtube.com/channel/UC5M8zH6ZfS5Znd3tJTjn_DA) – официальный канал компании [Zabbix](https://zabbix.com);
 - [Avito.tech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) - официальный канал Avito.tech;
-- [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - Официальный канал компании [PostgresPro](https://postgrespro.ru);
+- [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - официальный канал компании [PostgresPro](https://postgrespro.ru);
 - [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
+- [Mailru Cloud Solutions](https://www.youtube.com/c/MailRuCloudSolutions/featured) - канал компании Mailru об их облачной платформе;
+- [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
 
 ## Learning
 - [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
@@ -78,6 +86,8 @@
 - [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
 - [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов;
 - [Джастин](https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ) – уроки разговорного английского от носителя, учившего русский язык;
+- [Лекториум](https://www.youtube.com/user/OpenLektorium/featured) - платформа открытых знаний;
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - бесплатные уроки программирования;
 
 ## Conference / Interview
 - [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
