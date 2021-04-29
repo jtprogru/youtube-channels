@@ -1,4 +1,7 @@
 # Список полезных Youtube каналов
+![GitHub contributors](https://img.shields.io/github/contributors/jtprogru/youtube-channels?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/jtprogru/youtube-channels?style=plastic)
+![GitHub watchers](https://img.shields.io/github/watchers/jtprogru/youtube-channels?style=plastic)
 
 Список Youtube каналов, которые так или иначе относятся к IT.
 
