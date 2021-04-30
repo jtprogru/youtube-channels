@@ -85,13 +85,13 @@
 - [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
 
 ## Learning
-- [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
-- [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
-- [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
-- [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов;
-- [Джастин](https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ) – уроки разговорного английского от носителя, учившего русский язык;
-- [Лекториум](https://www.youtube.com/user/OpenLektorium/featured) - платформа открытых знаний;
-- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - бесплатные уроки программирования;
+- :ru: [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
+- :uk: [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
+- :uk: [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
+- :uk: [English lessons 4U](https://www.youtube.com/channel/UC4cmBAit8i_NJZE8qK8sfpA) - уроки английского от носителя, от грамматики до нюансов применения слов;
+- :ru: [Джастин](https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ) – уроки разговорного английского от носителя, учившего русский язык;
+- :ru: [Лекториум](https://www.youtube.com/user/OpenLektorium/featured) - платформа открытых знаний;
+- :uk: [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - бесплатные уроки программирования;
 
 ## Conference / Interview
 - [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
