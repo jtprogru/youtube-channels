@@ -71,18 +71,18 @@
 - :uk: [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) -  канал от энтузиаста Python и Django и основателя Django Girls;
 
 ## Companies / Official
-- [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
-- [Badoo Tech](https://www.youtube.com/c/BadooTech/featured) – официальный канал Badoo.Tech;
-- [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) – официальный канал портала [htmlacademy.ru](https://htmlacademy.ru);
-- [Слёрм](https://www.youtube.com/channel/UCK5MedKoNJ5aRahfGOIGx6g) – официальный канал УЦ [Slurm.io](https://slurm.io);
-- [Флант](https://www.youtube.com/channel/UCjmwHCZ-qh3ro7hHTQhqYQg) – официальный канал компании Флант;
-- [ITSumma](https://www.youtube.com/c/ItsummaRu) – официальный канал компании [ITSumma](https://www.itsumma.ru);
-- [Zabbix](https://www.youtube.com/channel/UC5M8zH6ZfS5Znd3tJTjn_DA) – официальный канал компании [Zabbix](https://zabbix.com);
-- [Avito.tech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) - официальный канал Avito.tech;
-- [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - официальный канал компании [PostgresPro](https://postgrespro.ru);
-- [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
-- [Mailru Cloud Solutions](https://www.youtube.com/c/MailRuCloudSolutions/featured) - канал компании Mailru об их облачной платформе;
-- [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
+- :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
+- :ru: [Badoo Tech](https://www.youtube.com/c/BadooTech/featured) – официальный канал Badoo.Tech;
+- :ru: [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) – официальный канал портала [htmlacademy.ru](https://htmlacademy.ru);
+- :ru: [Слёрм](https://www.youtube.com/channel/UCK5MedKoNJ5aRahfGOIGx6g) – официальный канал УЦ [Slurm.io](https://slurm.io);
+- :ru: [Флант](https://www.youtube.com/channel/UCjmwHCZ-qh3ro7hHTQhqYQg) – официальный канал компании Флант;
+- :ru: [ITSumma](https://www.youtube.com/c/ItsummaRu) – официальный канал компании [ITSumma](https://www.itsumma.ru);
+- :uk: [Zabbix](https://www.youtube.com/channel/UC5M8zH6ZfS5Znd3tJTjn_DA) – официальный канал компании [Zabbix](https://zabbix.com);
+- :ru: [Avito.tech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg) - официальный канал Avito.tech;
+- :ru:/:uk: [PostgresPRO](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A) - официальный канал компании [PostgresPro](https://postgrespro.ru);
+- :uk: [Skyeng ITeam](https://www.youtube.com/channel/UC3EThWvNp4EabJD7PyCOzGw) - it-канал компании Skyeng;
+- :ru: [Mailru Cloud Solutions](https://www.youtube.com/c/MailRuCloudSolutions/featured) - канал компании Mailru об их облачной платформе;
+- :ru: [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
 
 ## Learning
 - :ru: [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
