@@ -112,18 +112,18 @@
 - [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g) – канал о жизни людей в айти и интересных фактах;
 
 ## Just for fun
-- [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
-- [RomNero](https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig/) – домашнее сисадминство, просто о сложном;
-- [Артём объяснит](https://www.youtube.com/channel/UCV6HQLYaoZfPpV5XGbOvAJA) – даже до тебя дойдёт всё;
-- [Anton Chernousov](https://www.youtube.com/c/AntonChernousov) – всякое разное об IT и около;
-- [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) – обзоры дистрибутивов Linux, ПО, новостей, а так же туториалы;
-- [:3ildcat](https://www.youtube.com/channel/UCeHOkFGW-7uAZFvq3BXb8YA) – обзоры механических клавиатур;
-- [MONHOUSE](https://www.youtube.com/c/Monhouse) – канал про мониторинг и около;
-- [Johe News](https://www.youtube.com/channel/UCL4BwOrBEKggPyqsdVpraFg) – всякое разное про Linux, IT, OpenSource;
-- [Константин Андрианов](https://www.youtube.com/channel/UCh3Z6GUdEtv3bHF9ZR_deag) – обзорчики новостей, железа, софта для яблочников;
-- [Linux Scoop](https://www.youtube.com/channel/UCNnUnr4gwyNmzx_Bbzvt29g) – обзоры дистрибутивов, кастомизации, настройки внешнего вида;
-- [Bits and Bytes TVO](https://www.youtube.com/c/bitsandbytestvo/videos) - канал про историю комп.техники, к сожалению заброшен;
-- [Давайте разбираться](https://www.youtube.com/channel/UCQU4CouaES6l-t9Llqzzt1A) - Наука и космос, ведёт твитерский [@kuingul](https://twitter.com/kuingul);
-- [Програмысли](https://www.youtube.com/channel/UCB-_Qz4Ptt8OwIsBkN9ahJA) - Мысли программиста, эксавтора для журналов Хакер и Игромания, живет в Канаде;
-- [Заметки ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA) - Про ардуино и не только;
-- [Дмитрий Бачило](https://www.youtube.com/c/BachiloDmitry/videos) - Ретро железо, софт, игры, да и не только ретро;
+- :ru: [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
+- :ru: [RomNero](https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig/) – домашнее сисадминство, просто о сложном;
+- :ru: [Артём объяснит](https://www.youtube.com/channel/UCV6HQLYaoZfPpV5XGbOvAJA) – даже до тебя дойдёт всё;
+- :ru: [Anton Chernousov](https://www.youtube.com/c/AntonChernousov) – всякое разное об IT и около;
+- :uk: [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) – обзоры дистрибутивов Linux, ПО, новостей, а так же туториалы;
+- :uk: [:3ildcat](https://www.youtube.com/channel/UCeHOkFGW-7uAZFvq3BXb8YA) – обзоры механических клавиатур;
+- :ru: [MONHOUSE](https://www.youtube.com/c/Monhouse) – канал про мониторинг и около;
+- :ru: [Johe News](https://www.youtube.com/channel/UCL4BwOrBEKggPyqsdVpraFg) – всякое разное про Linux, IT, OpenSource;
+- :ru: [Константин Андрианов](https://www.youtube.com/channel/UCh3Z6GUdEtv3bHF9ZR_deag) – обзорчики новостей, железа, софта для яблочников;
+- :uk: [Linux Scoop](https://www.youtube.com/channel/UCNnUnr4gwyNmzx_Bbzvt29g) – обзоры дистрибутивов, кастомизации, настройки внешнего вида;
+- :uk: [Bits and Bytes TVO](https://www.youtube.com/c/bitsandbytestvo/videos) - канал про историю комп.техники, к сожалению заброшен;
+- :ru: [Давайте разбираться](https://www.youtube.com/channel/UCQU4CouaES6l-t9Llqzzt1A) - Наука и космос, ведёт твитерский [@kuingul](https://twitter.com/kuingul);
+- :ru: [Програмысли](https://www.youtube.com/channel/UCB-_Qz4Ptt8OwIsBkN9ahJA) - Мысли программиста, эксавтора для журналов Хакер и Игромания, живет в Канаде;
+- :ru: [Заметки ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA) - Про ардуино и не только;
+- :ru: [Дмитрий Бачило](https://www.youtube.com/c/BachiloDmitry/videos) - Ретро железо, софт, игры, да и не только ретро;
