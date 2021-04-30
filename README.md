@@ -94,22 +94,22 @@
 - :uk: [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - бесплатные уроки программирования;
 
 ## Conference / Interview
-- [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
-- [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) – конфа про DevOps от JUG.ru Group;
-- [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
-- [Василий Айтипиплов](https://www.youtube.com/user/videoitpeople) – записи докладов про ИТ и около;
-- [Python Channel](https://www.youtube.com/c/PythonChannelRussia) – Python Channel;
-- [MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A) – подкаст и сообщество питонистов Москвы;
-- [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) – РИТ++/Highload++, записи докладов с оффлайн мероприятий;
-- [RITFest Channel](https://www.youtube.com/channel/UC7hjrpB81FSipI1oqtOaZqQ) – Видеотрансляция главного зала фестиваля "Российских интернет технологий" (РИТ++);
-- [В офисе](https://www.youtube.com/channel/UCJ8AJ0qd2-gk90OujUETzCg) – интервью со специалистами разных направлений;
-- [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) – интервью со специалистами разных направлений;
-- [PG Day Russia](https://www.youtube.com/channel/UCF8bdHoyuXCiNzKAzF5Q2XA) - конференция PG Day;
-- [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
-- [Pro Conf](https://www.youtube.com/c/ProConf) – канал подкаста ProConf;
-- [linkmeup](https://www.youtube.com/c/linkmeup-podcast) – канал подкаста linkmeup;
-- [Перейти в АйТи](https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ) – просто о сложном и как попасть в айтишечку;
-- [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g) – канал о жизни людей в айти и интересных фактах;
+- :ru: [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
+- :ru: [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) – конфа про DevOps от JUG.ru Group;
+- :ru: [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
+- :ru: [Василий Айтипиплов](https://www.youtube.com/user/videoitpeople) – записи докладов про ИТ и около;
+- :ru: [Python Channel](https://www.youtube.com/c/PythonChannelRussia) – Python Channel;
+- :ru: [MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A) – подкаст и сообщество питонистов Москвы;
+- :ru: [HighLoad Channel](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w) – РИТ++/Highload++, записи докладов с оффлайн мероприятий;
+- :ru: [RITFest Channel](https://www.youtube.com/channel/UC7hjrpB81FSipI1oqtOaZqQ) – Видеотрансляция главного зала фестиваля "Российских интернет технологий" (РИТ++);
+- :ru: [В офисе](https://www.youtube.com/channel/UCJ8AJ0qd2-gk90OujUETzCg) – интервью со специалистами разных направлений;
+- :ru: [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) – интервью со специалистами разных направлений;
+- :ru: [PG Day Russia](https://www.youtube.com/channel/UCF8bdHoyuXCiNzKAzF5Q2XA) - конференция PG Day;
+- :ru: [TUTU tech](https://www.youtube.com/channel/UCj6CIODwYrS7sPQlJK3MdTQ) - митапы ТутуРу;
+- :ru: [Pro Conf](https://www.youtube.com/c/ProConf) – канал подкаста ProConf;
+- :ru: [linkmeup](https://www.youtube.com/c/linkmeup-podcast) – канал подкаста linkmeup;
+- :ru: [Перейти в АйТи](https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ) – просто о сложном и как попасть в айтишечку;
+- :ru: [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g) – канал о жизни людей в айти и интересных фактах;
 
 ## Just for fun
 - :ru: [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
