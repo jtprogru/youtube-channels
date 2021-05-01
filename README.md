@@ -17,7 +17,6 @@
 - :uk: [Dmitry Lambert](https://www.youtube.com/channel/UCUQSCqrwiCjwQZQGznTkvrQ) – туториалы по Zabbix, Linux, etc;
 - :ru:/:uk: [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) – DevOps и все что рядом;
 - :ru: [realmanual](https://youtube.com/c/realmanual) – всякое разное про технологии и около;
-- :ru: [Oleksiy Pototskyy](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – молодой канал про DevOps, но мне нравится;
 - :uk: [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) – канал сайта [roadmap.sh](https://roadmap.sh);
 - :ru: [Network Education](https://www.youtube.com/c/NetworkeducationRu) – канал про сети не для новичков;
 - :ru: [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) – все о DevOps и SRE практиках, разбор реальных ситуаций, архитектура инфраструктуры, безопасность;
