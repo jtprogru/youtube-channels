@@ -28,6 +28,7 @@
 - :ru: [DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A) - youtube-канал Московского сообщества DevOps;
 - :ru: [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) - видео конференций по DevOps от JUG.ru Group;
 - :ru: [DevOpsMinsk](https://www.youtube.com/channel/UC3UB8hAvJ9QPLgP7ql9dE6w) - видеоотчеты живых митапов по DevOps экспертизе от Минского сообщества;
+- :ru: [Мир IT с Антоном Павленко](https://www.youtube.com/pavlenkoat) – канал о личном опыте хорошего DevOps/SRE;
 
 ## Coding
 - :ru: [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
