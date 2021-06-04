@@ -70,6 +70,7 @@
 - :ru: [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) – пепелсбей сам по себе, Google Developer Expert, руководитель «Веб-стандартов», организатор pitercss_meetup;
 - :uk: [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) -  канал от энтузиаста Python и Django и основателя Django Girls;
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
+- :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 
 ## Companies / Official
 - :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
