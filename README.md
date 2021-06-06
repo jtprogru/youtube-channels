@@ -71,6 +71,7 @@
 - :uk: [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) -  канал от энтузиаста Python и Django и основателя Django Girls;
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
+- :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
 
 ## Companies / Official
 - :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
