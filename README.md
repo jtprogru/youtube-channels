@@ -72,6 +72,9 @@
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 - :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
+- :en: [The Flutter Way](https://youtube.com/c/TheFlutterWay) – канал о разработке на Flutter;
+- :en: [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ) – канал о разработке на Django;
+- :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о разработке на Python;
 
 ## Companies / Official
 - :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
@@ -88,6 +91,7 @@
 - :ru: [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
 
 ## Learning
+- :ru: [КиберДед](https://youtube.com/c/KiberDed) – канал по информационной безопасности;
 - :ru: [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
 - :uk: [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
 - :uk: [BBC Learning English](https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA) – учимся говорить на Английском вместе с BBC;
