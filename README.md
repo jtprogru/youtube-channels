@@ -72,6 +72,8 @@
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 - :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
+- :en: [Pyplane](https://youtube.com/c/Pyplane) – канал о программирвоании на Python;
+- :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о программировании на Python;
 
 ## Companies / Official
 - :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
