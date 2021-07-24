@@ -72,10 +72,10 @@
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 - :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
-- :en: [Pyplane](https://youtube.com/c/Pyplane) – канал о программирвоании на Python;
+- :uk: [Pyplane](https://youtube.com/c/Pyplane) – канал о программирвоании на Python;
 - :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о программировании на Python;
-- :en: [The Flutter Way](https://youtube.com/c/TheFlutterWay) – канал о разработке на Flutter;
-- :en: [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ) – канал о разработке на Django;
+- :uk: [The Flutter Way](https://youtube.com/c/TheFlutterWay) – канал о разработке на Flutter;
+- :uk: [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ) – канал о разработке на Django;
 - :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о разработке на Python;
 
 ## Companies / Official
@@ -101,6 +101,7 @@
 - :ru: [Джастин](https://www.youtube.com/channel/UCrMnWbWKMm_D0cNvzkKP1jQ) – уроки разговорного английского от носителя, учившего русский язык;
 - :ru: [Лекториум](https://www.youtube.com/user/OpenLektorium/featured) - платформа открытых знаний;
 - :uk: [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/featured) - бесплатные уроки программирования;
+- :ru: [CS Center](https://youtube.com/c/CompscicenterRu) - лекции от Computer Science Center (для любителей академического образования);
 
 ## Conference / Interview
 - :ru: [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
