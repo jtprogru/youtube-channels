@@ -79,6 +79,7 @@
 - :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о разработке на Python;
 - :uk: [Very Academy](https://www.youtube.com/c/veryacademy) – канал о разработке на Python, JS, PHP, CSS;
 - :uk: [CodingEntrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs) – learn Django, Python, APIs, Accepting Payments, Stripe, JQuery, Twitter Bootstrap, and much more;
+- :ru: [WebForMySelf](https://www.youtube.com/user/webformyself) – содержит массу полезных обучающих видео уроков по веб-разработке;
 
 ## Q&A
 - :ru: [Нагрузочное тестирование с нуля!](https://www.youtube.com/channel/UCuV0AwsyjhIzO16Rcxic-UQ) – канал про нагрузочное тестирование, Jmeter;
