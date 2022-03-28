@@ -72,7 +72,7 @@
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 - :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
-- :uk: [Pyplane](https://youtube.com/c/Pyplane) – канал о программирвоании на Python;
+- :uk: [Pyplane](https://youtube.com/c/Pyplane) – канал о программировании на Python;
 - :ru: [Roman Mogylatov](https://www.youtube.com/channel/UCo-0CqDc4dUdHCgYyhKaKog) – канал о программировании на Python;
 - :uk: [The Flutter Way](https://youtube.com/c/TheFlutterWay) – канал о разработке на Flutter;
 - :uk: [JustDjango](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ) – канал о разработке на Django;
