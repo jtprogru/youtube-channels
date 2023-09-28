@@ -8,7 +8,6 @@
 
 ## Sysadmin / DevOps
 - :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
-- :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) – канал о DevOps;
 - :uk: [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform;
 - :ru: [Dmitry Ketov](https://www.youtube.com/channel/UCvRRgjjKvyLNB9yx3oGu2Xw) – основной упор канала на системное администрирование;
 - :ru: [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw) – канал о DevOps, администрировании Linux;
