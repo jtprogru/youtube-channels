@@ -4,9 +4,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/jtprogru/youtube-channels?style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/jtprogru/youtube-channels?style=plastic)
 
-Список Youtube каналов, которые так или иначе относятся к IT.
+Список Youtube каналов, которые так или иначе относятся к IT. [Мишка на сервере](https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg) – когда-то и тут будут видосы про IT/DevOps/SRE и прочее околоайтишное.
 
 ## Sysadmin / DevOps
+
+- :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
 - :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
 - :ru: [Артур Крюков](https://www.youtube.com/@OldPythonKAA) – очень подробные видосы по DevOps;
 - :uk: [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform;
@@ -23,7 +25,6 @@
 - :uk: [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) – туториалы, гайды, обзоры дистрибутивов Linux;
 - :ru: [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) – канал про GNU/Linux и IT;
 - :ru: [Rotoro cloud](https://www.youtube.com/channel/UCAKBEk-i-irZSLWnhUfguwg) – канал про DevOps и около;
-- :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
 - :ru: [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) - подкаст - разговоры о современном DevOps, IT и около IT тематиках;
 - :ru: [DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A) - youtube-канал Московского сообщества DevOps;
 - :ru: [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) - видео конференций по DevOps от JUG.ru Group;
@@ -31,6 +32,7 @@
 - :ru: [Мир IT с Антоном Павленко](https://www.youtube.com/pavlenkoat) – канал о личном опыте хорошего DevOps/SRE;
 
 ## Coding
+
 - :ru: [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw) – преподаватель кафедры информатики МФТИ по дисциплинам программирования на Python, C/C++;
 - :ru: [Django School](https://www.youtube.com/channel/UC_hPYclmFCIENpMUHpPY8FQ) – разработка на Django;
 - :ru: [FastAPI Channel](https://www.youtube.com/channel/UCFCaz7mA2qNodfTh0x1ET5Q) – разработка на FastAPI;
@@ -82,9 +84,11 @@
 - :ru: [WebForMySelf](https://www.youtube.com/user/webformyself) – содержит массу полезных обучающих видео уроков по веб-разработке;
 
 ## Q&A
+
 - :ru: [Нагрузочное тестирование с нуля!](https://www.youtube.com/channel/UCuV0AwsyjhIzO16Rcxic-UQ) – канал про нагрузочное тестирование, Jmeter;
 
 ## Companies / Official
+
 - :ru: [Uptime Community](https://www.youtube.com/channel/UCghkB-Vd_gNuZ_Uj5mxasrg) – официальный канал [Uptime.Community](https://uptime.community);
 - :ru: [Badoo Tech](https://www.youtube.com/c/BadooTech/featured) – официальный канал Badoo.Tech;
 - :ru: [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) – официальный канал портала [htmlacademy.ru](https://htmlacademy.ru);
@@ -99,6 +103,7 @@
 - :ru: [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ) - образовательный канал для IT специалистов от Mailru;
 
 ## Learning
+
 - :ru: [КиберДед](https://youtube.com/c/KiberDed) – канал по информационной безопасности;
 - :ru: [Лекторий ФПМИ](https://www.youtube.com/channel/UCdxesVp6Fs7wLpnp1XKkvZg) – записи лекций ФПМИ;
 - :uk: [To Fluency](https://www.youtube.com/channel/UC32mYgIHS-e3C3Eyd2tRw6g) – учимся говорить на Английском;
@@ -110,6 +115,7 @@
 - :ru: [CS Center](https://youtube.com/c/CompscicenterRu) - лекции от Computer Science Center (для любителей академического образования);
 
 ## Conference / Interview
+
 - :ru: [Рушана Каюмова](https://www.youtube.com/channel/UCdg-aVTg_j53aQFfENtTnnw) – канал отличного HR'a про собеседования/собеседующих/собеседуемых;
 - :ru: [DevOops](https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg) – конфа про DevOps от JUG.ru Group;
 - :ru: [DevOps Channel](https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w) – DevOps Channel;
@@ -128,6 +134,7 @@
 - :ru: [Senior Software Vlogger](https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g) – канал о жизни людей в айти и интересных фактах;
 
 ## Just for fun
+
 - :ru: [Artifex Ru](https://www.youtube.com/channel/UCcbLZ5QgDIA0Ro2_305gQAQ) – про искусство максимально интересным языком;
 - :ru: [RomNero](https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig/) – домашнее сисадминство, просто о сложном;
 - :ru: [Артём объяснит](https://www.youtube.com/channel/UCV6HQLYaoZfPpV5XGbOvAJA) – даже до тебя дойдёт всё;
