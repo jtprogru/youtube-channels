@@ -9,6 +9,7 @@
 ## Sysadmin / DevOps
 
 - :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
+- :uk: [Mischa van den Burg](https://youtube.com/@mischavandenburg) – DevOps, продуктивность и ведение заметок;
 - :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
 - :ru: [Артур Крюков](https://www.youtube.com/@OldPythonKAA) – очень подробные видосы по DevOps;
 - :uk: [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) – про DevOps, Kubernetes, Terraform;
