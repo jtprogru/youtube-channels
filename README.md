@@ -1,4 +1,5 @@
 # Список полезных Youtube каналов
+
 ![GitHub contributors](https://img.shields.io/github/contributors/jtprogru/youtube-channels?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jtprogru/youtube-channels?style=plastic)
 ![GitHub watchers](https://img.shields.io/github/watchers/jtprogru/youtube-channels?style=plastic)
@@ -6,9 +7,10 @@
 
 Список Youtube каналов, которые так или иначе относятся к IT. [Мишка на сервере](https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg) – когда-то и тут будут видосы про IT/DevOps/SRE и прочее околоайтишное.
 
-## Sysadmin / DevOps
+## Sysadmin / DevOps / SRE
 
 - :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) - видеоматериалы для Системных администраторов, Системных архитекторов, DevOps;
+- :ru: [sre pub](https://www.youtube.com/@srepubstreamcast) - Три SRE, которым интересен streamcast;
 - :uk: [Mischa van den Burg](https://youtube.com/@mischavandenburg) – DevOps, продуктивность и ведение заметок;
 - :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) – про Ansible, Kubernetes;
 - :ru: [Артур Крюков](https://www.youtube.com/@OldPythonKAA) – очень подробные видосы по DevOps;
@@ -54,7 +56,7 @@
 - :ru: [Булат Замалутдинов](https://www.youtube.com/channel/UCbSDV7h4sUBTGHeMn3TSWAw) – программирование на Go;
 - :ru: [Andrey Sozykin](https://www.youtube.com/channel/UC5gufuYHPSsJA-jul-iwyXA) – программирование AI/NN на Python, компьютерная грамотность;
 - :ru: [Почему не работает?](https://www.youtube.com/channel/UCO8aN1B8ncJM09rohGvOiCQ) – программирование на Python, Vue.js;
-- :ru: [Natasha Samoylenko](https://youtube.com/c/PyNEng) –  Python для сетевых инженеров;
+- :ru: [Natasha Samoylenko](https://youtube.com/c/PyNEng) – Python для сетевых инженеров;
 - :uk: [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ) – программирование для трейдеров;
 - :ru: [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg) – канал про web-программирование;
 - :ru: [Гоша Дударь](https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw) – все о программировании и около;
@@ -71,7 +73,7 @@
 - :ru: [ITVDN](https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w) – видеокурсы по программированию;
 - :ru: [PyCoding](https://www.youtube.com/channel/UCMOjK9NwSgDnt2ujXnjiVIw) – программирование на Python и веб-фреймворке Django;
 - :ru: [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) – пепелсбей сам по себе, Google Developer Expert, руководитель «Веб-стандартов», организатор pitercss_meetup;
-- :uk: [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) -  канал от энтузиаста Python и Django и основателя Django Girls;
+- :uk: [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A) - канал от энтузиаста Python и Django и основателя Django Girls;
 - :uk: [James Q Quick](https://youtube.com/c/JamesQQuick) – канал о Web Development;
 - :ru: [The Art of Development](https://youtube.com/c/TheArtofDevelopment) – канал про разработку на Golang, Python;
 - :ru: [Лёша Корепанов](https://www.youtube.com/c/aocore) – личный опыт программисты с 20-летним стажем;
@@ -151,3 +153,7 @@
 - :ru: [Програмысли](https://www.youtube.com/channel/UCB-_Qz4Ptt8OwIsBkN9ahJA) - Мысли программиста, эксавтора для журналов Хакер и Игромания, живет в Канаде;
 - :ru: [Заметки ардуинщика](https://www.youtube.com/channel/UC4axiS76D784-ofoTdo5zOA) - Про ардуино и не только;
 - :ru: [Дмитрий Бачило](https://www.youtube.com/c/BachiloDmitry/videos) - Ретро железо, софт, игры, да и не только ретро;
+
+## License
+
+[WTFPL](LICENSE)
