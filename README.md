@@ -30,11 +30,11 @@
 
 ## DevOps, SRE и системное администрирование
 
-- :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) — видеоматериалы для системных администраторов, архитекторов и DevOps-инженеров, разборы инструментов и подходов;
-- :ru: [sre pub](https://www.youtube.com/@srepubstreamcast) — стримкаст трёх SRE-инженеров о практике эксплуатации, инцидентах и наблюдаемости в продакшене;
-- :uk: [Mischa van den Burg](https://youtube.com/@mischavandenburg) — DevOps, инструменты продуктивности, ведение заметок и развитие как инженера платформы;
-- :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) — практические туториалы по Ansible, Kubernetes, Raspberry Pi и домашней лабораторной инфраструктуре;
 - :ru: [Артур Крюков](https://www.youtube.com/@OldPythonKAA) — очень подробные и обстоятельные видеоразборы DevOps-практик, Linux-инструментов и автоматизации;
+- :ru: [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) — подкаст-разговоры о современном DevOps, инструментах, инцидентах и культуре IT-команд;
+- :uk: [Mischa van den Burg](https://youtube.com/@mischavandenburg) — DevOps, инструменты продуктивности, ведение заметок и развитие как инженера платформы;
+- :ru: [sre pub](https://www.youtube.com/@srepubstreamcast) — стримкаст трёх SRE-инженеров о практике эксплуатации, инцидентах и наблюдаемости в продакшене;
+- :uk: [Jeff Geerling](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg) — практические туториалы по Ansible, Kubernetes, Raspberry Pi и домашней лабораторной инфраструктуре;
 - :uk: [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) — понятные объяснения DevOps, Kubernetes, Terraform, Docker и CI/CD для начинающих инженеров;
 - :ru: [Dmitry Ketov](https://www.youtube.com/channel/UCvRRgjjKvyLNB9yx3oGu2Xw) — основной упор на системное администрирование Linux, сетевые сервисы и базовую инфраструктуру;
 - :ru: [Kirill Semaev](https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw) — канал о DevOps, администрировании Linux, виртуализации и эксплуатации сетевых сервисов;
@@ -44,14 +44,13 @@
 - :ru:/:uk: [ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg) — DevOps и всё, что рядом: AWS, CI/CD, Linux и инструменты автоматизации;
 - :ru: [realmanual](https://youtube.com/c/realmanual) — разное про технологии, инфраструктуру, инструменты разработки и около-айтишные темы из практики;
 - :uk: [the roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) — официальный канал сайта [roadmap.sh](https://roadmap.sh) с роадмапами для разных направлений IT-карьеры;
-- :ru: [Алексей Потоцкий](https://www.youtube.com/channel/UC9SaO6h4dwENOJJwrXuPodQ) — практики DevOps и SRE, разборы реальных кейсов, архитектура инфраструктуры и безопасность;
 - :uk: [LearnLinuxTV](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) — туториалы, гайды, обзоры дистрибутивов Linux, а также практики серверного администрирования и эксплуатации;
 - :ru: [Murad Aslanov](https://www.youtube.com/c/MuradAslanov) — канал про GNU/Linux, IT-инструменты и повседневное администрирование настольных и серверных систем;
 - :ru: [Rotoro cloud](https://www.youtube.com/channel/UCAKBEk-i-irZSLWnhUfguwg) — канал про DevOps, Kubernetes, облачную инфраструктуру и практики деплоя приложений;
-- :ru: [DevOps Kitchen Talks](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) — подкаст-разговоры о современном DevOps, инструментах, инцидентах и культуре IT-команд;
 - :ru: [DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A) — записи митапов и докладов московского сообщества DevOps-инженеров и платформенных команд;
 - :ru: [DevOpsMinsk](https://www.youtube.com/channel/UC3UB8hAvJ9QPLgP7ql9dE6w) — видеоотчёты живых митапов и докладов по DevOps-экспертизе от Минского сообщества инженеров;
 - :ru: [Мир IT с Антоном Павленко](https://www.youtube.com/pavlenkoat) — личный опыт DevOps/SRE-инженера, разборы инструментов и карьерных шагов в IT;
+- :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) — видеоматериалы для системных администраторов, архитекторов и DevOps-инженеров, разборы инструментов и подходов;
 - :ru: [MONHOUSE](https://www.youtube.com/c/Monhouse) — канал про мониторинг систем, инструменты наблюдаемости и связанные эксплуатационные практики.
 
 ## Сети
