@@ -51,7 +51,8 @@
 - :ru: [DevOpsMinsk](https://www.youtube.com/channel/UC3UB8hAvJ9QPLgP7ql9dE6w) — видеоотчёты живых митапов и докладов по DevOps-экспертизе от Минского сообщества инженеров;
 - :ru: [Мир IT с Антоном Павленко](https://www.youtube.com/pavlenkoat) — личный опыт DevOps/SRE-инженера, разборы инструментов и карьерных шагов в IT;
 - :ru: [DeusOps](https://www.youtube.com/channel/UCz4slJ1WzdCiEIBZ-WZgliw) — видеоматериалы для системных администраторов, архитекторов и DevOps-инженеров, разборы инструментов и подходов;
-- :ru: [MONHOUSE](https://www.youtube.com/c/Monhouse) — канал про мониторинг систем, инструменты наблюдаемости и связанные эксплуатационные практики.
+- :ru: [MONHOUSE](https://www.youtube.com/c/Monhouse) — канал про мониторинг систем, инструменты наблюдаемости и связанные эксплуатационные практики;
+- :ru: [Alexander Mayatin](https://www.youtube.com/@AlexanderMayatin/) — Linux, системное администрирование и инфраструктурные практики; новых видео давно нет, но материалы по основам остаются актуальными.
 
 ## Сети
 
